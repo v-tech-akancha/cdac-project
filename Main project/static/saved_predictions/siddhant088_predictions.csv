@@ -1,0 +1,5 @@
+Row No,dateTime,age,sex,height,weight,children,smoker,region,prediction
+1,2023-09-09 19:58:20.925777,24,male,163.0,74.0,0,no,southeast,311456.74
+2,2023-09-09 20:04:19.820538,24,male,163.0,74.0,0,no,southeast,311456.74
+3,2023-09-09 20:05:19.296312,24,male,163.0,74.0,0,yes,southeast,1572661.5
+4,2023-09-09 20:13:35.490899,24,male,163.0,74.0,0,yes,southeast,1572661.5

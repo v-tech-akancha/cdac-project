@@ -1,0 +1,1 @@
+conda create -n new_env_name --file conda_requirements.txt 

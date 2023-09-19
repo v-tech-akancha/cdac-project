@@ -1,0 +1,2 @@
+Row No,dateTime,age,sex,height,weight,children,smoker,region,prediction
+1,2023-09-09 19:50:28.928169,24,male,163.0,74.0,0,no,southeast,311456.74
