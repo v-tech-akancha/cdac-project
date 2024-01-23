@@ -28,9 +28,9 @@ Jupyter Notebooks: To create, train, evaluate, and fine-tune machine learning mo
 2. Decision Tree: Decision Trees are versatile and interpretable models that partition data based on the values of input features.
 3. Linear Regression: Linear Regression is a simple yet powerful model for predicting numerical outcomes like health insurance costs. It establishes a linear relationship between input features and the target variable.
 4. Gradient Boosting-Gradient Boosting is an ensemble learning method that builds a strong predictive model by combining multiple weak learners. Gradient Boosting can capture nonlinear relationships and provide high predictive accuracy.
--------------------------------------------------------Conclusion--------------------
+-----------------------------Conclusion--------------------
   - In conclusion, our health insurance cost prediction project has been a significant endeavor with the aim of enhancing the accuracy and efficiency of healthcare cost estimations. Through meticulous data collection, preprocessing, and the implementation of machine learning models, we have made valuable strides in this domain.
-  - 
+
 -We faced several challenges along the way, including data quality issues, model selection dilemmas, and the need for interpretability in healthcare decisions. However, our commitment to addressing these challenges has resulted in a robust predictive model.
 
 -Our chosen model, Gradient Boosting, has proven to be the most accurate in estimating health insurance costs.
